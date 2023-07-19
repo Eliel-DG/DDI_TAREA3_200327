@@ -1,4 +1,4 @@
-# DDI_Practica3_200327
+# DDI_Tarea3_200327
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | Fuente, Animacion, Imagen |
+| Nombre | **Tarea 3** *Fuente, Animacion, Imagen* |
 | Descripción  |  Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación. A continuación, se describe el proceso seguido para llevar a cabo esta tarea. |
 |  Fecha de Carga | 24/05/23  |
